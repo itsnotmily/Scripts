@@ -31,6 +31,6 @@ This fixes it
 ## ![Instagram Icon](../master/Media/insta24.png "Instagram Picture URL") Instagram Picture Saver 
 Instagram doesn't let you right click and save pictures.
 
-Use this code, left click and image and a new tab opens with the picture in its highest resolution.
+Use this code, left click the image and a new tab opens with the picture in its highest resolution.
 
 [Link to Instagram Picture Saver](../master/Code/instagramPic.js)
