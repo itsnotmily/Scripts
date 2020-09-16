@@ -2,7 +2,11 @@
 
 All code snippets I share here are intended to be used in the developer console of your browser. 
 
-This is usually done by pressing F12 or CTRL+Shift+I, finding the console tab, copying the code you want from this page and pasting it on the developers console.
+### How to use:
+1. Copy the code you like from this page
+2. Press F12 or CTRL+Shift+I on your keyboard
+3. Navigate to the console tab
+4. Paste the code in the developers console.
 
 
 ## ScrollSkip
