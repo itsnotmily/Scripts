@@ -1,3 +1,3 @@
 # Snippets
 
-[Link to ScrollSkip](../blob/master/scrollskip.js)
+[Link to ScrollSkip](../master/scrollskip.js)
