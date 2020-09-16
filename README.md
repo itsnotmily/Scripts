@@ -19,7 +19,10 @@ It should work on any html5 video player, such as youtube, twitch, netflix etc.
 
 
 ## NetflixTime
-Ever get annoyed that Netflix only shows the video time remaining, rather than the current play time? This fixes it
+![alt text](../master/Media/netflix-logo.png "Logo Title Text 1")
+Ever get annoyed that Netflix only shows the video time remaining, rather than the current play time? 
+
+This fixes it
 
 [Link to NetflixTime](../master/NetflixTime.js)
 
