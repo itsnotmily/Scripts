@@ -1,4 +1,4 @@
-# Snippets
+# Scripts
 
 All code snippets I share here are intended to be used in the developer console of your browser. 
 
