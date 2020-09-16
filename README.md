@@ -18,7 +18,7 @@ It should work on any html5 video player, such as youtube, twitch, netflix etc.
 [Link to ScrollSkip](../master/scrollskip.js)
 
 
-## ![Netflix Icon](../master/Media/netflixlogo.png "Logo Title Text 1") NetflixTime 
+## ![Netflix Icon](../master/Media/netflixlogo24.png "Logo Title Text 1") NetflixTime 
 Ever get annoyed that Netflix only shows the video time remaining, rather than the current play time? 
 
 This fixes it
