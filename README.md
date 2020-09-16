@@ -16,3 +16,11 @@ It allows the user to skip forward or backward in a video by 10 seconds, using t
 It should work on any html5 video player, such as youtube, twitch, netflix etc.
 
 [Link to ScrollSkip](../master/scrollskip.js)
+
+
+## NetflixTime
+Ever get annoyed that Netflix only shows the video time remaining, rather than the current play time? This fixes it
+
+[Link to NetflixTime](../master/NetflixTime.js)
+
+
