@@ -34,3 +34,11 @@ Instagram doesn't let you right click and save pictures.
 Use this code, left click the image and a new tab opens with the picture in its highest resolution.
 
 [Link to Instagram Picture Saver](../master/Code/instagramPic.js)
+
+
+## ![TikTok Icon](../master/Media/tiktok24.png "Instagram Picture URL") TikTok Video Saver 
+TikTok on Desktop doesn't let you right click and save videos.
+
+Use this code, left click the video and a new tab opens with the video being able to be right clicked and saved.
+
+[Link to TikTok Video Saver](../master/Code/tiktoksaver.js)
