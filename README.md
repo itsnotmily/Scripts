@@ -12,8 +12,10 @@ These have been created for Firefox but should work with Google Chrome also.
 
 
 ## 🖱️ ScrollSkip
-It allows the user to skip forward or backward in a video by 10 seconds, using the scroll wheel on the mouse.
+This allows the user to skip forward or backward in a video by 10 seconds, using the scroll wheel on the mouse.
 It should work on any html5 video player, such as youtube, twitch, netflix etc.
+
+Works best in fullscreen.
 
 [Link to ScrollSkip](../master/Code/scrollskip.js)
 
