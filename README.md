@@ -1,6 +1,7 @@
 # Snippets
 
 All code snippets I share here are intended to be used in the developer console of your browser. 
+
 This is usually done by pressing F12 or CTRL+Shift+I, finding the console tab, copying the code you want from this page and pasting it on the developers console.
 
 
