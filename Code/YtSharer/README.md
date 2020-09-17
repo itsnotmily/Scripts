@@ -1,0 +1,4 @@
+# Code
+
+```JS
+Console.log("£");```
