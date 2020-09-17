@@ -25,7 +25,7 @@ Ever get annoyed that Netflix only shows the video time remaining, rather than t
 
 This fixes it
 
-[Link to NetflixTime](../master/Code/NetflixTime/NetflixTime.js)
+[Link to NetflixTime](../master/Code/NetflixTime/)
 
 
 ## ![Instagram Icon](../master/Media/insta24.png "Instagram URL") Instagram Saver 
@@ -33,7 +33,7 @@ Instagram doesn't let you right click and save pictures or videos.
 
 Use this code, left click the image/video and a new tab opens with it in its highest resolution.
 
-[Link to Instagram Saver](../master/Code/InstagramSaver/InstagramPicsandVid.js)
+[Link to Instagram Saver](../master/Code/InstagramSaver/)
 
 
 ## ![TikTok Icon](../master/Media/tiktok24.png "Instagram Picture URL") TikTok Video Saver 
@@ -41,10 +41,10 @@ TikTok on Desktop doesn't let you right click and save videos.
 
 Use this code, left click the video and a new tab opens with the video being able to be right clicked and saved.
 
-[Link to TikTok Video Saver](../master/Code/TikTokSaver/tiktoksaver.js)
+[Link to TikTok Video Saver](../master/Code/TikTokSaver/)
 
 
 ## ![Amazon Icon](../master/Media/amazon24.png "Amazon Wishlist Calculator") Amazon Wishlist Calculator 
 This calculates the total cost of an Amazon wishlist
 
-[Link to Amazon Wishlist Calculator](../master/Code/AmazonWishlist/AmazonWishlist.js)
+[Link to Amazon Wishlist Calculator](../master/Code/AmazonWishlist/)
