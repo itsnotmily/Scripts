@@ -17,7 +17,7 @@ It should work on any html5 video player, such as youtube, twitch, netflix etc.
 
 Press \` (button left of 1 on the keyboard) to make the scrollbar disappear and prevent you from scrolling the page by mistake, press it again to make it reappear. 
 
-[Link to ScrollSkip](../master/Code/ScrollSkip/scrollskip.js)
+[Link to ScrollSkip](../master/Code/ScrollSkip)
 
 
 ## ![Netflix Icon](../master/Media/netflixlogo24.png "NetflixTime") NetflixTime 
