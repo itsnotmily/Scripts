@@ -23,7 +23,7 @@ if (window.location.href.includes("www.netflix.com"))
 		if (event.deltaY > 0) {
 			player.seek(player.getCurrentTime() - 10000);
 			}
-		if (event.deltaY < 0){
+		else if (event.deltaY < 0){
 			player.seek(player.getCurrentTime() + 10000);
 			}
 		});}
@@ -31,7 +31,7 @@ else {document.querySelector("body").addEventListener("wheel", function(){
 	if (event.deltaY > 0) {
 		document.querySelector('video').currentTime = document.querySelector('video').currentTime - 10;
 		}
-	if (event.deltaY < 0) {
+	else if (event.deltaY < 0) {
 		document.querySelector('video').currentTime = document.querySelector('video').currentTime + 10;}
 		});}
 ```
