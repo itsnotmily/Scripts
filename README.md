@@ -42,3 +42,9 @@ TikTok on Desktop doesn't let you right click and save videos.
 Use this code, left click the video and a new tab opens with the video being able to be right clicked and saved.
 
 [Link to TikTok Video Saver](../master/Code/TikTokSaver/tiktoksaver.js)
+
+
+## ![Amazon Icon](../master/Media/amazon24.png "Amazon Wishlist Calculator") Amazon Wishlist Calculator 
+This calculates the total cost of an Amazon wishlist
+
+[Link to Amazon Wishlist Calculator](../master/Code/AmazonWishlist/AmazonWishlist.js)
