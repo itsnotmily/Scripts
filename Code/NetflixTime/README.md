@@ -1,4 +1,4 @@
-# NetflixTime
+## ![Netflix Icon](/Media/netflixlogo24.png "NetflixTime") NetflixTime 
 
 Ever get annoyed that Netflix only shows the video time remaining, rather than the current play time?
 
