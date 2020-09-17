@@ -2,7 +2,7 @@
 
 All code snippets I share here are intended to be used in the developer console of your browser. 
 
-These have been created for Firefox but should work with Google Chrome also.
+These have been created for Firefox but should also work with Google Chrome.
 
 ## ℹ️ How to use:
 1. Copy the code you like from this page
