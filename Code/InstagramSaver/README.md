@@ -15,4 +15,5 @@ else if ((event.srcElement.offsetParent.children[0].children[0] !== null) && (ev
 	window.open(event.srcElement.offsetParent.children[0].children[0].children[0].children[0].currentSrc);
 }
 }
-document.body.addEventListener("click", myFunction);```
+document.body.addEventListener("click", myFunction);
+```
