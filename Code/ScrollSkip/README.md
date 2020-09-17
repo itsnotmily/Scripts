@@ -6,11 +6,11 @@ Press \` (button left of 1 on the keyboard) to make the scrollbar disappear and 
 
 ```Javascript
 document.addEventListener("keypress", function(event) {
-  if (event.key == "`") {
-	if (document.body.style.overflow == ""){
+  if (event.key === "`") {
+	if (document.body.style.overflow === ""){
 		document.body.style.overflow="hidden";}
 		
-	else if (document.body.style.overflow == "hidden"){
+	else if (document.body.style.overflow === "hidden"){
 		document.body.style.overflow="";}  
 	}
 });
