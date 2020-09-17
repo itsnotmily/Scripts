@@ -1,4 +1,4 @@
-# InstagramSaver
+## ![Instagram Icon](../master/Media/insta24.png "Instagram URL") Instagram Saver 
 
 Instagram doesn't let you right click and save pictures or videos.
 
