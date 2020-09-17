@@ -28,12 +28,12 @@ This fixes it
 [Link to NetflixTime](../master/Code/NetflixTime/NetflixTime.js)
 
 
-## ![Instagram Icon](../master/Media/insta24.png "Instagram Picture URL") Instagram Picture Saver 
-Instagram doesn't let you right click and save pictures.
+## ![Instagram Icon](../master/Media/insta24.png "Instagram URL") Instagram Saver 
+Instagram doesn't let you right click and save pictures or videos.
 
-Use this code, left click the image and a new tab opens with the picture in its highest resolution.
+Use this code, left click the image/video and a new tab opens with it in its highest resolution.
 
-[Link to Instagram Picture Saver](../master/Code/InstagramSaver/InstagramSaver.js)
+[Link to Instagram Saver](../master/Code/InstagramSaver/InstagramPicsandVid.js)
 
 
 ## ![TikTok Icon](../master/Media/tiktok24.png "Instagram Picture URL") TikTok Video Saver 
