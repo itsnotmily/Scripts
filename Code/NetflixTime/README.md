@@ -1,4 +1,8 @@
-# README
+# NetflixTime
+
+Ever get annoyed that Netflix only shows the video time remaining, rather than the current play time?
+
+This fixes it
 
 ```JS
 const videoPlayer = netflix.appContext.state.playerApp.getAPI().videoPlayer;
