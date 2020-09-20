@@ -6,7 +6,6 @@ Use this code, left click the video and a new tab opens with the video being abl
 
 ```js
 function myFunction() {
-console.log(event);
 if (event.srcElement.parentElement.firstChild.currentSrc.indexOf("tiktokcdn.com") !== -1){
 	window.open(event.srcElement.parentElement.firstChild.currentSrc);
 }
