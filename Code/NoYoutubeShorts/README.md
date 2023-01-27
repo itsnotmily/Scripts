@@ -1,9 +1,6 @@
-## ![Youtube Icon](/Media/yt24.png "NoYoutubeShorts") NoYoutubeShorts 
+## ![Youtube Icon](/Media/youtube24.png "NoYoutubeShorts") NoYoutubeShorts 
 
-Instagram doesn't let you right click and save pictures or videos.
-
-Use this code, left click the image/video and a new tab opens with it in its highest resolution.
-
+Youtube Subscription Feed is full of garbage #shorts videos. Use this to remove them
 
 ```js
 function myFunction() {
