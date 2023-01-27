@@ -48,3 +48,10 @@ Use this code, left click the video and a new tab opens with the video being abl
 This calculates the total cost of an Amazon wishlist
 
 [Link to Amazon Wishlist Calculator](../master/Code/AmazonWishlist/)
+
+## ![Youtube Icon](../master/Media/youtube24.png "NoYoutubeShorts") NoYoutubeShorts 
+Youtube Subscription Feed is full of garbage #shorts videos. Use this to remove them
+
+[Link to NoYoutubeShorts](../master/Code/NoYoutubeShorts/)
+
+
